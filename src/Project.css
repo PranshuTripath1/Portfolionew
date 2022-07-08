@@ -1,0 +1,54 @@
+.projectContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1100px;
+  gap: 10px 20px;
+  margin: 0 auto;
+}
+
+.card {
+  padding: 13px;
+  width: 300px;
+  box-shadow: 0 0 30px #ccc;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.skills {
+  margin: 3px;
+  font-weight: 700;
+}
+
+.skillContainer {
+  margin-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.projectLink {
+  margin: 0 10px;
+}
+
+.projectLink a {
+  text-decoration: none;
+  padding: 1rem;
+  color: inherit;
+}
+
+.projectLink1 a {
+  text-decoration: none;
+  padding: 1rem;
+  color: inherit;
+}
+
+.prtitle h2 {
+  font-size: 2rem;
+  line-height: 1.2;
+  color: #444;
+  text-align: center;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+}
